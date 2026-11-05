@@ -133,3 +133,20 @@ __blobstorage__
 __queuestorage__
 __azurite_db*__.json
 .python_packages
+
+# --- dependency stores, caches and build output (added 2026-11-05) ---
+node_modules/
+bower_components/
+.deno/
+.venv/
+virtualenv/
+site-packages/
+.gradle/
+.next/
+.nuxt/
+.parcel-cache/
+Pods/
+DerivedData/
+.cache/
+.DS_Store
+Thumbs.db
